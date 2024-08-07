@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I am Sanket, a Software Engineer currently pursuing a master's degree in Computer Science at the University of Southern California.
-I have broad interests in Web technologies, the Internet of Things, System Programming, and Firmware Engineering.
+I have broad interests in Mobile app development, Web technologies, the Internet of Things, System Programming, and Firmware Engineering.
 ### Skills:
 
-#### *Languages:* Besides English, I am skilled in JavaScript, Java, Python, and C/C++. Many of my projects on Github are built using these technologies.
+#### *Languages:* I am skilled in Kotlin, JavaScript, Java, Python, C/C++, and many more. Many of my projects on Github are built using these technologies.
 
 #### *Web Technologies:* Node.js, Express.js, Django, REST APIs, React.js, HTML, CSS, Bootstrap 
 
